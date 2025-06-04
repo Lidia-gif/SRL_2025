@@ -1,0 +1,13 @@
+1- São essa funções:  partilha de ficheiros , partilha de impressoras , autenticação de utilizadores.
+
+ Partilha de ficheiros - Permite que os utilizadores da rede acedam a pastas e ficheiros armazenados num servidor ou noutro computador. Também permite a leitura, escrita e modificação.
+ Partilha de impressoras - permite indentificar quem vai ter acesso a impressora.
+ Autenticação de utilizadores - Garante que apenas utilizadores autorizados acedam á rede e aos seus recursos , cada um te um nome e uma password.
+
+2- se o funcionário tentar aceder pasta do departamento de RH , o sistem deve bloquear acesso automaticamente , porque as informações do RH são pessoais e confidenciais.
+
+3- A função do sistema operativo ao obrigar os utilizadores a efetuarem login com credenciais é porque garante a segurança , privacidade e controle de acesso.
+
+4- É controlada para que não a nenhuma tentativa de acesso não autorizado . O papel do SON é monitorizar , o  acesso registro , e ver quem vai ter acesso ou não a impressora e mesmo assim ficar monitorizando.
+
+5- O SON pode ajudar o monitorizar o tráfego da rede , deleta falhas , e gere alertas em caso de problemas.
