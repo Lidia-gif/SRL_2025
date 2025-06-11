@@ -4,7 +4,7 @@
  Partilha de impressoras - permite indentificar quem vai ter acesso a impressora.
  Autenticação de utilizadores - Garante que apenas utilizadores autorizados acedam á rede e aos seus recursos , cada um te um nome e uma password.
 
-2- se o funcionário tentar aceder pasta do departamento de RH , o sistem deve bloquear acesso automaticamente , porque as informações do RH são pessoais e confidenciais.
+2- se o funcionário tentar aceder pasta do departamento de RH , o sistem deve bloquear acesso automaticamente , porque as informações do RH são pessoais e confidenciais e só o administradores  têm acesso.
 
 3- A função do sistema operativo ao obrigar os utilizadores a efetuarem login com credenciais é porque garante a segurança , privacidade e controle de acesso.
 
